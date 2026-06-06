@@ -1,4 +1,7 @@
 # 1- STUDY-OF-MICROWAVE-COMPONENTS-AND-INSTRUMENTS
+## NAME: JAISREE N
+## REG NO : 212224060104
+
 ## AIM:
 To become familiar with microwave components and instruments available in the laboratory.
 
